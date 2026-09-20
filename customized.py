@@ -1,0 +1,11 @@
+class color:
+    normal='\033[0m'
+    red='\033[1m\033[91m'
+    green='\033[1m\033[92m'
+    yellow='\033[1m\033[103m'
+    bold='\033[0m\033[1m'
+    greenhighlited='\033[42m'
+    GhighlitedW='\033[42m\033[37m\033[1m'
+    blackhighlighted='\033[7m'
+    boldNavyBlue='\033[1m\033[97m\033[46m'
+    CyanHighL='\033[1m\033[106m'
